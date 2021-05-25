@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mushe!
+- 🎮 I founded [Whiteboard Games](whiteboard.games).
+- 🔴 There I'm the Game Director of [I See Red](iseeredgame.com).
+- 👨🏻‍🏫 I'm also a Level Design Professor at the college [Primera Escuela de Arte Multimedial Da Vinci](https://davinci.edu.ar/).
+- 🎓 And graduated there as a Designer and Programmer of Videogames.
+- 📫 You can get in touch at any time at [luciano.musella@whiteboard.games](mailto:luciano.musella@whiteboard.games).
